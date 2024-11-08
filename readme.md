@@ -20,10 +20,6 @@ A aplicação estará disponível em `http://localhost:8080`.
 
 ## Cenários de Teste e Resultados Esperados
 
-Para cada cenário, o valor final é calculado como:
-
-\[	ext{valor final} = 	ext{valor base} 	imes (1 + 	ext{taxa})\]
-
 ### Cenários para `CONSULTA`
 
 #### Homens
